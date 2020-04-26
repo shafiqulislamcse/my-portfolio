@@ -474,6 +474,7 @@ header .navbar ul li a:hover{
 .contact .contact-content #text{
 	padding: 18px 10px; 
 	font-size: 14px;
+	width:100%;
 }
 .contact .contact-content #text:focus{
 	border: 1px solid #000;
